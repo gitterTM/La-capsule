@@ -7,7 +7,15 @@ h1{
     color: white;
     padding: 10px 30px; 
     background: #2ecc71; 
+    border-radius: 5%;
 }
 .btn:hover {
     background: #27ae60; 
+    margin: 5px;    }
+.alert{
+    color: #f8d7da;
+    background: #f5c6cb;
+    border-color: #721c24;
+    margin:20px 1px;
+    padding: 2px 2px;
     }
