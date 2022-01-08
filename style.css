@@ -2,3 +2,12 @@ h1{
     font-size: 17px;
     color: #2c3e50;
 }
+
+.btn{
+    color: white;
+    padding: 10px 30px; 
+    background: #2ecc71; 
+}
+.btn:hover {
+    background: #27ae60; 
+    }
